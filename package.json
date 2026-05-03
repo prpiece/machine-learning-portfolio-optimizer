@@ -1,0 +1,18 @@
+{
+  "name": "machine-learning-portfolio-optimizer",
+  "version": "0.1.0",
+  "description": "A scalable machine learning model that optimizes a portfolio of stocks based on historical price data and market trends.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "python": "latest",
+    "tensorflow": "latest",
+    "scikit-learn": "latest",
+    "pandas": "latest",
+    "matplotlib": "latest"
+  }
+}
